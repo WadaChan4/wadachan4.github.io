@@ -1,0 +1,548 @@
+.Begin{
+    display: flex;
+    flex-direction: row;
+    background-color: #444952;
+    padding: 8px;
+}
+.bodystyle{
+    margin: 0;
+}
+.but{
+    background: #E41413;
+    border-radius: 10px 0px;
+    font-size:225%;
+    line-height:120%;
+    font-weight:695;
+    color:white;
+    text-align:center;
+    font-family:Raleway;
+    font-style: normal;
+    max-height:100%;
+    max-width:30%;
+    display: flex;
+    align-items: center;
+    vertical-align:top;
+    margin-left: 35.33%;
+}
+.first{
+    font-size:150%;
+    line-height:180%;
+    font-weight:695;
+    color:white;
+    text-align:center;
+    font-family:Raleway;
+    vertical-align:top;
+}
+.second {
+    font-size:362.5%;
+    line-height:120%;
+    font-weight:659;
+    color:white;
+    text-align: center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.third {
+    font-size:100%;
+    line-height:150%;
+    font-weight:400;
+    color:white;
+    text-align: center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.browse{
+    font-size:87.5%;
+    color:white;
+    text-align: center;
+    font-family: Raleway;
+    vertical-align:center;
+    transform: rotate(90deg);
+    display: flex;
+    margin-bottom: 20%;
+    margin-top: 40%;
+    margin-right: -80%;
+
+}
+.sotrudnik{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    height:100%;
+    width:80% ;
+    flex: 1 1 auto;
+    padding:0;
+    margin:0;
+    position: relative;
+    left:0px;
+    top:20px;
+}
+img {max-width:100%}
+img {max-height:100%}
+.vagon{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    flex: 1 1 auto;
+    height:100%;
+    width:80% ;
+    padding:0;
+    margin:0;
+    position: relative;
+    left:50px;
+    top:60px;
+}
+.Banner1T{
+    background-image:url("../img/sered.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    padding-top:10%;
+    padding-bottom:10%;
+}
+.tmpClassToImage
+{
+    display: flex;
+    flex-direction:column;
+    justify-content:start;
+}
+.tmpClassContent_1{
+    width:40%
+}
+.stan{
+    font-size:362.5%;
+    color:white;
+    line-height:100%;
+    font-weight:659;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.info1{
+    font-size:112.5%;
+    color:white;
+    line-height:120%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.about{
+    font-size:100%;
+    color:white;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.vakansia{
+    font-size:100%;
+    color:white;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.contact{
+    font-size:100%;
+    color:white;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.Flex2{
+    display: flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    justify-content: center;
+    height:40%;
+    background-color: #444952;
+
+}
+.Flex3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height:50%;
+}
+.Start{
+    background-color: #444952;
+    justify-content: center;
+    height:100%;
+}
+.Start2{
+    background-color: #444952;
+    justify-content: center;
+    height:100%;
+}
+.White{
+    background-color: white;
+    justify-content: center;
+    height:300%;
+    padding: 8px;
+}
+.info{
+    font-size:362.5%;
+    color:#444952;
+    line-height:120%;
+    font-weight:659;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.so{
+    font-size:362.5%;
+    color:#E41413;
+    line-height:120%;
+    font-weight:500;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+
+}
+.pro{
+    font-size:362.5%;
+    color:#E41413;
+    line-height:120%;
+    font-weight:500;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+
+}
+.let{
+    font-size:362.5%;
+    color:#E41413;
+    line-height:120%;
+    font-weight:500;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+
+}
+.sub{
+    font-size:362.5%;
+    color:#E41413;
+    line-height:120%;
+    font-weight:500;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+
+}
+.Flex5{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height:50%;
+}
+.trud{
+    font-size:87.5%;
+    color:#444952;
+    line-height:120%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.spec{
+    font-size:87.5%;
+    color:#444952;
+    line-height:120%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+    margin-left: 7.33%;
+}
+.opt{
+    font-size:87.5%;
+    color:#444952;
+    line-height:120%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.ekt{
+    font-size:87.5%;
+    color:#444952;
+    line-height:120%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.Flex6{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height:50%;
+}
+.dostup{
+    font-size:362.5%;
+    color:#444952;
+    line-height:100%;
+    font-weight:659;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.online{
+    font-size: 87.5%;
+    color:#444952;
+    line-height:130%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top
+}
+.kontakt{
+    font-size:100%;
+    color:#444952;
+    line-height:100%;
+    font-weight:500;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top
+}
+.vopros{
+    font-size:100%;
+    color:#444952;
+    line-height:100%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top
+}
+.pochta{
+    font-size:100%;
+    color:#444952;
+    line-height:100%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top
+}
+.tele{
+    font-size:100%;
+    color:#444952;
+    line-height:100%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top
+}
+.Footer{
+    display:flex;
+    flex-direction: row;
+    background-color: white;
+    justify-content:space-between;
+    height:300%;
+    padding: 8px;
+}
+.scrollItemList{
+    overflow-y:scroll;
+    height:300px;
+}
+.jobItems{
+    background-color:red;
+    width: 30%;
+}
+.stroi{
+    font-size:362.5%;
+    color:white;
+    line-height:100%;
+    font-weight:659;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.mi{
+    font-size:112.5%;
+    color:white;
+    line-height:120%;
+    font-weight:400;
+    text-align:center;
+    font-family: Raleway;
+    vertical-align:top;
+}
+.Banner2 {
+    background-image: url("../img/fut.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    padding-top:10%;
+    padding-bottom:10%;
+    margin-top: 10%;
+    margin-bottom:10%;
+    background-color:#444952;
+}
+.tmpClassToImage2
+{
+    display: flex;
+    flex-direction:column;
+    justify-content:right;
+    justify-items: end;
+}
+.tmpClassContent_2{
+    width:40%;
+    margin-left:57.5%;
+}
+.scrollItemList{
+    overflow-y:scroll;
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    height: 600px;
+}
+
+.jobItems{
+    width: 90%;
+    background-color: #FDFDFD;
+    padding: 18px;
+    box-shadow: 5px 5px 30px rgba(101, 101, 101, 0.12);
+    margin-top: 8px;
+    margin-bottom:8px;
+}
+.jobImage{
+    justify-items: center;
+
+}
+
+.jobImage img{
+    align-self: center;
+    object-fit: cover;
+}
+
+.jobBar{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.jobBarName{
+    font-family:Raleway;
+    font-size:58px;
+    font-weight:659;
+    color: #444952;
+}
+
+.jobBarButton {
+    width: 20%;
+    background-color: #E41413;
+    border-radius: 10px 0px;
+    border: 0px;
+    color: white;
+}
+.jobDescription{
+    background-color: red;
+    display: none;
+    flex-direction: column;
+    height = 0;
+
+}
+
+.jobDescriptionWork{
+    background-color: white;
+    font-size:112.5%;
+    color:#444952;
+    line-height:120%;
+    font-weight:400;
+    text-align:start;
+    font-family: Raleway;
+    vertical-align:top
+}
+
+.jobDescriptionPay{
+    background-color: white;
+    font-size:112.5%;
+    color:#444952;
+    line-height:120%;
+    font-weight:400;
+    text-align:start;
+    font-family: Raleway;
+    vertical-align:top
+}
+
+.jobDescriptionWorkTime{
+    background-color: white;
+    font-size:112.5%;
+    color:#444952;
+    line-height:120%;
+    font-weight:400;
+    text-align:start;
+    font-family: Raleway;
+    vertical-align:top
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #E41413;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #b30000;
+}
+.svg1{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.f1{
+    display: flex;
+    flex-flow: column;
+    align-items: start;
+}
+.f2{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.f3{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.selectorChanged{
+    color:white;
+    background-color:black;
+    font-family:Raleway;
+    padding:8px;
+    margin:8px;
+    width:20%;
+    height:55px;
+    font-size:18px;
+    border-radius:8px;
+}
+
+.lupa{
+    cursor: pointer;
+    height:55px;
+    margin-left: -0.6%;
+    margin-bottom: -1.33%;
+}
+
+.pupa{
+    cursor: pointer;
+    height:55px;
+    margin-bottom: -1.33%;
+}
+a:visited { color: white; }
+a {color: white;}
+
